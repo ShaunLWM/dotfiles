@@ -1,0 +1,27 @@
+tap "deskflow/homebrew-tap"
+
+brew "watchman"
+brew "lazydocker"
+brew "git"
+brew "zsh"
+brew "mas"
+brew "deskflow"
+brew "gh"
+
+cask "orbstack"
+cask "raycast"
+cask "slack"
+cask "betterdisplay"
+cask "dbeaver-community"
+cask "zulu@17"
+cask "cursor"
+cask "android-studio"
+cask "brave-browser"
+cask "ghostty"
+cask "legcord"
+cask "font-fira-code"
+cask "jordanbaird-ice"
+cask "rustdesk"
+cask "android-studio"
+
+mas "Xcode", id: 497799835
