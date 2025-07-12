@@ -7,6 +7,8 @@ brew "zsh"
 brew "mas"
 brew "deskflow"
 brew "gh"
+brew "rbenv"
+brew "pyenv"
 
 cask "orbstack"
 cask "raycast"
