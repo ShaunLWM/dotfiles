@@ -9,6 +9,7 @@ brew "deskflow"
 brew "gh"
 brew "rbenv"
 brew "pyenv"
+brew "gromgit/brewtils/taproom"
 
 cask "orbstack"
 cask "raycast"
