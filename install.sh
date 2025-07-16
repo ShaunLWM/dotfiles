@@ -3,7 +3,7 @@
 echo "Installing brew..."
 
 # https://github.com/StevenJPx2/dotfiles/blob/main/install.sh
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+NONINTERACTIVE=1 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 git clone https://github.com/ShaunLWM/dotfiles.git
 cd dotfiles || exit
 
