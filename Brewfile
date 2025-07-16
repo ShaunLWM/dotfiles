@@ -1,4 +1,6 @@
 tap "deskflow/homebrew-tap"
+tap "gromgit/brewtils"
+
 
 brew "watchman"
 brew "lazydocker"
@@ -9,7 +11,7 @@ brew "deskflow"
 brew "gh"
 brew "rbenv"
 brew "pyenv"
-brew "gromgit/brewtils/taproom"
+brew "taproom"
 
 cask "orbstack"
 cask "raycast"
