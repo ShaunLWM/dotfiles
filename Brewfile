@@ -11,6 +11,8 @@ brew "gh"
 brew "rbenv"
 brew "pyenv"
 brew "taproom"
+brew "neovim"
+brew "lazygit"
 
 cask "orbstack"
 cask "raycast"

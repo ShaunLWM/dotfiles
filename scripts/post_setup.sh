@@ -188,3 +188,6 @@ cat >> "$ZSHRC" << 'EOL'
 # GPG Configuration
 export GPG_TTY=$(tty)
 EOL
+
+git clone https://github.com/LazyVim/starter ~/.config/nvim
+rm -rf ~/.config/nvim/.git
