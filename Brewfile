@@ -16,6 +16,7 @@ brew "lazygit"
 brew "ripgrep"
 brew "fd"
 brew "fzf"
+brew "pearcleaner"
 
 cask "orbstack"
 cask "raycast"
