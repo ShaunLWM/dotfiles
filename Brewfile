@@ -17,6 +17,7 @@ brew "ripgrep"
 brew "fd"
 brew "fzf"
 brew "pearcleaner"
+brew "grc"
 
 cask "orbstack"
 cask "raycast"
