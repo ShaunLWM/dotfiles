@@ -191,3 +191,6 @@ EOL
 
 git clone https://github.com/LazyVim/starter ~/.config/nvim
 rm -rf ~/.config/nvim/.git
+
+GRC_ALIASES=true
+[[ -s "/etc/grc.zsh" ]] && source /etc/grc.zsh
