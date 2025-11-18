@@ -18,6 +18,7 @@ brew "fd"
 brew "fzf"
 brew "pearcleaner"
 brew "grc"
+brew "hl"
 
 cask "orbstack"
 cask "raycast"
